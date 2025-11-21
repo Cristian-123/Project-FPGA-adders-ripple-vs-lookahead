@@ -1,4 +1,4 @@
-# Project-FPGA-adders-ripple-vs-lookahead
+# Project-FPGA-adders-ripple vs lookahead
 Project Objective:
 This project compares two 4-bit adder architectures, the Ripple Carry Adder (RCA) and the Carry Lookahead Adder (LCA), implemented in VHDL. The analysis is performed using Post-Synthesis Simulation in Vivado to evaluate the propagation delay of the Final Carry ($C_{out}$) and demonstrate the influence of specialized FPGA hardware.
 
